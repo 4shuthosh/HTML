@@ -23,4 +23,4 @@ This repository contains my HTML learning journey. It includes fundamental conce
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/HTML.git
+   git clone https://github.com/4shutosh/HTML.git
